@@ -29,8 +29,7 @@ $ find boost_1_69_0 -type f | wc -l
 $ find `pwd`/boost_1_69_0/boost -name 'any.hpp'
 ```
 ##### Вывод:
-<details>
-  <p>
+
 ```
 /home/inna/boost_1_69_0/boost/proto/detail/any.hpp
 /home/inna/boost_1_69_0/boost/fusion/algorithm/query/detail/any.hpp
@@ -49,7 +48,8 @@ $ find `pwd`/boost_1_69_0/boost -name 'any.hpp'
 ```
 $ grep -rlw "boost::asio"
 ```
-##### Вывод:
+<details>
+  <summary>Вывод:</summary>
 ```
 r_type.html
 boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_handle.html
@@ -9079,8 +9079,8 @@ boost_1_69_0/doc/html/boost_process/tutorial.html
 boost_1_69_0/doc/html/process/reference.html
 
 ```
-  </p>
-  </details>
+  </p></details>
+  
 ## 8. Скомпилирутйе boost.
 ```
 $ ./bootstrap.sh
