@@ -50,19 +50,23 @@ $ grep -rlw "boost::asio"
 ```
 <details>
   <summary>Вывод:</summary>
-```
-r_type.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_handle.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_handle_type.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload1.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload2.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload3.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload1.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload2.html
-boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload3.html
+  
+  <p>
+    
+    
+  ```
+  r_type.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_handle.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_handle_type.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload1.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload2.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking/overload3.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/native_non_blocking.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload1.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload2.html
+  boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking/overload3.html
 boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/non_blocking.html
 boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/operator_eq_.html
 boost_1_69_0/doc/html/boost_asio/reference/posix__stream_descriptor/read_some/
@@ -9077,10 +9081,12 @@ boost_1_69_0/doc/html/boost_asio/index.html
 boost_1_69_0/doc/html/boost_process/extend.html
 boost_1_69_0/doc/html/boost_process/tutorial.html
 boost_1_69_0/doc/html/process/reference.html
-
-```
+  ```
+    
   </p>
-</details>
+  </details>
+  
+  
   
 ## 8. Скомпилирутйе boost.
 ```
