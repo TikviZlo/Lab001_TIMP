@@ -9079,7 +9079,8 @@ boost_1_69_0/doc/html/boost_process/tutorial.html
 boost_1_69_0/doc/html/process/reference.html
 
 ```
-  </p></details>
+  </p>
+</details>
   
 ## 8. Скомпилирутйе boost.
 ```
